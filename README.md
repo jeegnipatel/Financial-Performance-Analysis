@@ -1,10 +1,7 @@
 ## Gain Control of Your Finances: A Power BI Dashboard (Finance Dashboard)
 
-![Finance Dashboard](https://github.com/Mansury-Mahjabin/Financial-Performance-Analysis-using-Power-BI/blob/main/Finance%20Dashboard.png)
-
 **Take charge of your financial health with this interactive Power BI dashboard!** This project empowers you to track income, expenses, and savings, providing clear insights to help you make informed financial decisions.
 
-**Financial Clarity at Your Fingertips:**
 
 This project equips you with the skills to:
 
